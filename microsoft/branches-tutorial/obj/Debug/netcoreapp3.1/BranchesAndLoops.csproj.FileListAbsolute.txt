@@ -1,0 +1,11 @@
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.exe
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.deps.json
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.runtimeconfig.json
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.runtimeconfig.dev.json
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.dll
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\bin\Debug\netcoreapp3.1\BranchesAndLoops.pdb
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.csprojAssemblyReference.cache
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.dll
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\branches-tutorial\obj\Debug\netcoreapp3.1\BranchesAndLoops.pdb

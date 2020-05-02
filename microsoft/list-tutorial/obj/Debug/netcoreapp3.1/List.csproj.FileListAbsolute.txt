@@ -1,0 +1,11 @@
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\obj\Debug\netcoreapp3.1\List.csprojAssemblyReference.cache
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\Kuba\Coding\C#\C# guide\Tutorials\list-tutorial\obj\Debug\netcoreapp3.1\List.pdb

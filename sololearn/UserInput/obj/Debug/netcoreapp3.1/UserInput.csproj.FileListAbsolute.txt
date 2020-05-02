@@ -1,0 +1,11 @@
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\obj\Debug\netcoreapp3.1\UserInput.csprojAssemblyReference.cache
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+C:\Users\Kuba\Coding\C#\Tutorials\sololearn\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
