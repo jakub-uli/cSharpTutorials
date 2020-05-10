@@ -1,0 +1,11 @@
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.exe
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.deps.json
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.json
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.dev.json
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.dll
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.pdb
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.csprojAssemblyReference.cache
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfoInputs.cache
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfo.cs
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.dll
+C:\Users\Kuba\Coding\cSharpTutorials\sololearn\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.pdb
